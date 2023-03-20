@@ -11,5 +11,3 @@ Hi This is a new change in README file.
 At this point Github repo is set and i am editing file directly on github.
 
 We again changed README.md again here.
-
-Changed Again
